@@ -1,0 +1,973 @@
+
+<!DOCTYPE html>
+<html lang='nl' xml:lang='nl' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Zelf bloggen | Eigen blog maken</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta name="keywords" content="bloggen,weblogs,eigen weblog,Zelf bloggen,Eigen blog maken" /><meta name="description" content="Wil je zelf gaan bloggen? Overzicht van de beste websites en platformen om een eigen weblog te maken, zoals Wordpress en Blogger.com." />
+<meta content='width=device-width, user-scalable=no' name='viewport'>
+<meta content='Kadaza' name='application-name'>
+<meta content='#153a75' name='msapplication-TileColor'>
+<meta content='/system/metro_tile/image/1/Kadazawin8.png' name='msapplication-TileImage'>
+<meta content='YES' name='apple-touch-fullscreen'>
+<meta content='100005300499597' property='fb:admins'>
+<meta content='Kadaza' property='og:site_name'>
+<meta content='website' property='og:type'>
+<meta content='https://www.kadaza.nl/bloggen' property='og:url'>
+<meta content='Zelf bloggen | Eigen blog maken' property='og:title'>
+<meta content='https://www.kadaza.nl/images/Kadaza-Social.png' property='og:image'>
+<meta content='Wil je zelf gaan bloggen? Overzicht van de beste websites en platformen om een eigen weblog te maken, zoals Wordpress en Blogger.com.' property='og:description'>
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='Zelf bloggen | Eigen blog maken' name='twitter:title'>
+<meta content='Wil je zelf gaan bloggen? Overzicht van de beste websites en platformen om een eigen weblog te maken, zoals Wordpress en Blogger.com.' name='twitter:description'>
+<meta content='/images/Kadaza-Social.png' name='twitter:image'>
+
+<link href='/apple-touch-icon-57x57.png' rel='apple-touch-icon'>
+<link href='/apple-touch-icon-72x72.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='/apple-touch-icon-114x114.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='/apple-touch-icon-180x180.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/favicon.ico' rel='shortcut icon'>
+<link href='https://www.kadaza.nl/images/kadaza-icon.png' rel='image_src'>
+<meta content='True' name='HandheldFriendly'>
+<link href='/mobile/fallback/bootstrap.min.css' rel='stylesheet'>
+<link href='/mobile/fallback/bootstrap-theme.min.css' rel='stylesheet'>
+<link href='/mobile/fallback/font-awesome.min.css' rel='stylesheet'>
+<link href='/clean-switch.css' rel='stylesheet'>
+<link href='/mobile/css/e67efcbfcd07d222a14c278d4ee991d7' media='screen' rel='stylesheet'>
+<style>
+li#category_42.open .header { background-color: #014ccb; }
+li#category_42 .logo { border-color: #014ccb; }
+</style>
+<style>
+  .extended-footer > .bookmark-button {
+    display: inline;
+  }
+  @media (min-width: 900px) {
+    .extended-footer .bookmark-button {
+      display: inline;
+      cursor: pointer;
+    }
+  }
+  @media (min-width: 1200px) {
+    .extended-footer .bookmark-button {
+      display: none;
+    }
+  }
+</style>
+<style>
+  #mobile_wrapper.mobile-show ul.mobile-categories li:first-child.list-group-item > .content {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+</style>
+
+<!-- OneTrust Cookies Consent Notice start for kadaza.nl -->
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-language="nl" type="text/javascript" charset="UTF-8" data-domain-script="867fa49b-5a93-42d0-813e-ac4c414dd6af" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for kadaza.nl -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-4919682-1', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+  ga('set', 'anonymizeIp', true);
+  
+  var trackOutboundLink = function(url) {
+    ga('send', 'event', 'outbound', 'click', url, {
+      'transport': 'beacon',
+      'hitCallback': function(){document.location = url;}
+    });
+  }
+</script>
+
+<script>
+  window['gtag_enable_tcf_support'] = true
+</script>
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-28PY3LLG9T'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', "G-28PY3LLG9T");
+</script>
+
+
+<script>
+  var SearchData = {
+  	"order": ["google", "yahoo", "bing", "youtube", "wikipedia", "hyves"],
+  	"google": [
+  		{"c": "Web",
+  			   "u": "/search?q=##QUERY##"
+          },
+          {"c": "Afbeeldingen", "u": "https://www.google.com/images?&q=##QUERY##"},
+          {"c": "Maps"        , "u": "http://maps.google.com/maps?&q=##QUERY##"}
+  //        {"c": "Vertalen"    , "u": "http://translate.google.com/?&q=##QUERY##"}
+     	],
+  	"yahoo": [
+  		{"c": "Web"         , "u": "http://nl.search.yahoo.com/search?p=##QUERY##"},
+          {"c": "Afbeeldingen", "u": "http://nl.images.search.yahoo.com/search/images?p=##QUERY##"},
+          {"c": "Video"       , "u": "http://video.search.yahoo.com/search/video?p=##QUERY##"}
+     	],
+  	"bing": [
+  		{"c": "Web"         , "u": "http://www.bing.com/search?q=##QUERY##"},
+          {"c": "Afbeeldingen", "u": "http://www.bing.com/images/search?q=##QUERY##"},
+          {"c": "Video"       , "u": "http://www.bing.com/videos/search?q=##QUERY##"}
+     	],
+  	"youtube": [
+  		{"c": "Video"       , "u": "http://www.youtube.com/results?search_query=##QUERY##"},
+          {"c": "Kanalen"     , "u": "http://nl.youtube.com/results?search_type=search_users&search_query=##QUERY##"}
+     	],
+  	"wikipedia": [
+  		{"c": "&nbsp;"      , "u": "http://nl.wikipedia.org/w/index.php?title=Special%3ASearch&search=##QUERY##"}
+     	],
+  	"hyves": [
+  		{"c": "Leden"       , "u": "http://www.hyves.nl/#searchhyver=##QUERY##"},
+          {"c": "Hyves"       , "u": "http://www.hyves.nl/search/hyves/?searchterms=##QUERY##"}
+     	],
+  		"startpage": [
+  			{"c": "Web", "u": "https://www.startpage.com/sp/search?query=##QUERY##"}
+  		]
+  };	
+  
+  window.search_selection = "google";
+  
+  function doSearch() {
+    window.SearchQuery = window.search_option_data[search_selection];
+    SearchQuery = window.SearchQuery.replace('##QUERY##', encodeURIComponent(document.getElementById('query').value));
+    if(false) {
+      ga('send', 'pageview', '/m/search_query?q=' + encodeURIComponent(document.getElementById('query').value));
+    }
+    document.getElementById('queryform').submit();
+    window.location = window.SearchQuery;
+  };
+</script>
+</head>
+<body class='mobile'>
+<div class='header' id='header'>
+<div class='left-header-txt'>
+<p style="margin-left: 10px;"><span style="font-size:16px;"><a href="https://www.kadaza.nl/more">Alle categorie&euml;n</a>&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="#" onclick="javascript:$('#bookmark-modal').modal('toggle');(true);">Kadaza instellen als startpagina</a></strong>&nbsp; &nbsp;&nbsp; <a href="https://www.kadaza.nl/tips">Tips</a></span></p>
+
+</div>
+<div class='left-header-icons'>
+<a href="/more"><span class='more'>
+<svg fill='#024bcb' height='35' viewBox='0 0 24 24' width='35' xmlns='http://www.w3.org/2000/svg'>
+<path d='M14 17H4v2h10v-2zm6-8H4v2h16V9zM4 15h16v-2H4v2zM4 5v2h16V5H4z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</a></div>
+<div class='right-header-txt'>
+<p style="margin-right: 10px;"><span style="font-size:16px;"><a href="https://www.kadaza.nl/">Naar de startpagina</a>&nbsp;&nbsp;&nbsp; <a href="https://www.kadaza.nl/about">Over Kadaza</a></span></p>
+
+</div>
+<div class='right-header-icons'>
+<div class='bookmark-button'>
+<span class='bookmark'>
+<img style="width: 35px; height: 35px;" src="/mobile/add_to_home_icon.svg" />
+</span>
+</div>
+</div>
+<div class='logo'>
+<a href="https://www.kadaza.nl/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 184px; height: 28px;" role="img" aria-label="Kadaza Homepage" viewBox="0 0 655.333 96.667"><title>Kadaza Homepage</title><defs><style>.a{fill:#fa0000;}.b{fill:#005dc9;}.c,.d,.e,.g,.i,.k,.m{opacity:0.3;}.c{fill:url(#a);}.d{fill:url(#b);}.e{fill:url(#c);}.f{fill:#f98f25;}.g{fill:url(#d);}.h{fill:#932d93;}.i{fill:url(#e);}.j{fill:#31ca31;}.k{fill:url(#f);}.l{fill:#3298cb;}.m{fill:url(#g);}.n{fill:#fff;}</style><linearGradient id="a" x1="49.667" y1="10.667" x2="49.667" y2="96.667" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#005295" stop-opacity="0"/><stop offset="1"/></linearGradient><linearGradient id="b" x1="161.167" y1="10.667" x2="161.167" y2="96.667" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#d8001a" stop-opacity="0"/><stop offset="1"/></linearGradient><linearGradient id="c" x1="271.667" y1="0" x2="271.667" y2="96.667" xlink:href="#b"/><linearGradient id="d" x1="271.667" y1="10.667" x2="271.667" y2="96.667" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f08200" stop-opacity="0"/><stop offset="1"/></linearGradient><linearGradient id="e" x1="382.667" y1="10.667" x2="382.667" y2="96.667" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#860e74" stop-opacity="0"/><stop offset="1"/></linearGradient><linearGradient id="f" x1="493.167" y1="10.667" x2="493.167" y2="96.667" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#358d26" stop-opacity="0"/><stop offset="1"/></linearGradient><linearGradient id="g" x1="605.667" y1="10.667" x2="605.667" y2="96.667" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#007ebd" stop-opacity="0"/><stop offset="1"/></linearGradient></defs><rect class="a" x="111.5" width="99.333" height="96.667" rx="14" ry="14"/><rect class="b" width="99.333" height="96.667" rx="14" ry="14"/><rect class="c" y="10.667" width="99.333" height="86" rx="14" ry="14"/><rect class="d" x="111.5" y="10.667" width="99.333" height="86" rx="14" ry="14"/><rect class="e" x="222" width="99.333" height="96.667" rx="14" ry="14"/><rect class="f" x="222" width="99.333" height="96.667" rx="14" ry="14"/><rect class="g" x="222" y="10.667" width="99.333" height="86" rx="14" ry="14"/><rect class="h" x="333" width="99.333" height="96.667" rx="14" ry="14"/><rect class="i" x="333" y="10.667" width="99.333" height="86" rx="14" ry="14"/><rect class="j" x="443.5" width="99.333" height="96.667" rx="14" ry="14"/><rect class="k" x="443.5" y="10.667" width="99.333" height="86" rx="14" ry="14"/><rect class="l" x="556" width="99.333" height="96.667" rx="14" ry="14"/><rect class="m" x="556" y="10.667" width="99.333" height="86" rx="14" ry="14"/><path class="n" d="M254.61,26.645l13.665.057c2.287,0,9.263.058,14.237,3.717,5.2,3.831,7.032,10.349,7.032,16.237,0,12.693-6.8,19.325-14.637,20.754a38.578,38.578,0,0,1-7.433.458H254.61Zm8.977,34.419c.972.057,2.458.114,3.488.114,3.773,0,7.032-.286,9.6-2.859,3.488-3.487,3.716-9.663,3.716-11.664,0-5.832-2-11.206-7.547-12.75-1.83-.515-4.174-.8-9.262-.572Z"/><path class="n" d="M388.372,26.53l14.351,41.337H393.8l-2.974-8.919H374.479l-3.088,8.919h-8.462L377.852,26.53Zm.229,25.729L382.883,34.65l-6.117,17.609Z"/><path class="n" d="M478.688,60.321,500.3,33.277l-20.3.172V26.7h29.9v7.833L488.35,61.407l22.012-.343v6.8H478.688Z"/><path class="n" d="M610.372,26.53l14.351,41.337H615.8l-2.974-8.919H596.479l-3.088,8.919h-8.462L599.852,26.53Zm.229,25.729L604.883,34.65l-6.117,17.609Z"/><path class="n" d="M34.474,26.645h8.862V44.426l13.836-17.9H67.521L52.37,45.055,68.836,67.868H57.8L43.336,46.828v21.04H34.474Z"/><path class="n" d="M166.372,26.53l14.351,41.337H171.8l-2.973-8.919H152.478l-3.087,8.919h-8.462L155.852,26.53Zm.229,25.729L160.883,34.65l-6.118,17.609Z"/></svg></a>
+</div>
+</div>
+<div class='clear'></div>
+<div class='searchbar-wrapper'>
+<div class='searchbar'>
+<form action='/mobile/search' id='queryform' method='get' name='q' onsubmit='doSearch();return false;' target='hiddenposter'>
+<div class='search-logo'>
+<div class='google-logo-wrapper'>
+<div class='google-logo'>
+<span>enhanced by Google</span>
+</div>
+</div>
+<div class='other-logos'><img style="width: 84px; height: 35px;" src="" /></div>
+</div>
+<div class='input-group-btn'>
+<ul class='dropdown-menu' id='search-engine-dropdown' role='menu'>
+<li><a data-name="google" href="">Web</a></li>
+<li><a data-name="maps" href="">Maps</a></li>
+<li><a data-name="translate" href="">Vertalen</a></li>
+<li><a data-name="youtube" href="">YouTube</a></li>
+<li><a data-name="wikipedia" href="">Wikipedia</a></li>
+<li><a data-name="yahoo" href="">Yahoo</a></li>
+<li><a data-name="bing" href="">Bing</a></li>
+<li><a data-name="startpage" href="">Startpage</a></li>
+</ul>
+<button class='btn btn-default search-engine-dropdown' data-toggle='dropdown' type='button'>
+<span class='title'>Web</span>
+<span class='caret'></span>
+<span class='sr-only'>V</span>
+</button>
+</div>
+<div class='query-input-wrapper'>
+<input type="text" name="query" id="query" value="" autocomplete="off" />
+</div>
+<input type="submit" name="commit" value="Zoeken" id="google_search_button" data-disable-with="Zoeken" />
+</form>
+</div>
+</div>
+<div class='mobile-show' id='mobile_wrapper'>
+<div id='power_search' style='position: relative; overflow: visible; z-index: 110; max-width: 800px; margin: 0 auto;'></div>
+<ul class='list-group mobile-categories'>
+<li class='list-group-item category-link static open' id='category_42'>
+<div class='header'>
+<h1 class='title'>Bloggen</h1>
+<span class='more-txt'>Meer</span>
+<span class='right-button subcategory'>
+<span class='glyphicon' style='padding-top: 4px'>
+<svg fill='#ffffff' height='35' style='float: left' viewBox='0 0 24 24' width='35' xmlns='http://www.w3.org/2000/svg'>
+<path d='M14 17H4v2h10v-2zm6-8H4v2h16V9zM4 15h16v-2H4v2zM4 5v2h16V5H4z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+<div class='subcategories'>
+<ul class='list-group'>
+<li class='list-group-item category-link' data-link='/bloggen' id='category_42'>
+<a href="/bloggen">Bloggen
+</a></li>
+<li class='list-group-item category-link' data-link='/chatten' id='category_43'>
+<a href="/chatten">Chatten
+</a></li>
+<li class='list-group-item category-link' data-link='https://www.kadaza.nl/daten' id='category_1206'>
+<a href="https://www.kadaza.nl/daten">Daten
+</a></li>
+<li class='list-group-item category-link' data-link='https://www.kadaza.nl/ecards' id='category_522'>
+<a href="https://www.kadaza.nl/ecards">E-cards
+</a></li>
+<li class='list-group-item category-link' data-link='https://www.kadaza.nl/fotografie' id='category_1217'>
+<a href="https://www.kadaza.nl/fotografie">Foto&#39;s
+</a></li>
+<li class='list-group-item category-link' data-link='/genealogie' id='category_383'>
+<a href="/genealogie">Genealogie
+</a></li>
+<li class='list-group-item category-link' data-link='/videobellen' id='category_1321'>
+<a href="/videobellen">Videobellen
+</a></li>
+<li class='list-group-item category-link' data-link='https://www.kadaza.nl/wenskaarten' id='category_719'>
+<a href="https://www.kadaza.nl/wenskaarten">Wenskaarten
+</a></li>
+<li class='list-group-item category-link' data-link='https://www.kadaza.nl/website-maken' id='category_529'>
+<a href="https://www.kadaza.nl/website-maken">Website maken
+</a></li>
+<li class='list-group-item category-link' data-link='https://www.kadaza.nl/more' id='category_442'>
+<a href="https://www.kadaza.nl/more"><strong>
+Alle categorieën
+</strong>
+</a></li>
+</ul>
+</div>
+</span>
+</div>
+<div class='content'>
+<div class='logos-wrapper'>
+<div class='logo'>
+<a target="_blank" href="http://wordpress.com/"><img alt="Wordpress blog maken" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/992/original/wordpress-2019.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="http://www.blogger.com"><img alt="Blogger - Gratis blog maken" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/989/original/blogger-2012.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="http://www.tumblr.com/"><img alt="Tumblr" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1007/original/tumblr-2020.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="http://wordpress.org/"><img alt="Wordpress.org" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1005/original/wordpress-org.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="http://www.weebly.com/"><img alt="Weebly" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/985/original/weebly-2020.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.squarespace.com/websites/create-a-blog"><img alt="Squarespace - Een blog maken" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1006/original/squarespace-new.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.jouwweb.nl/blog-maken"><img alt="Jouwweb" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/994/original/Jouwweb.png" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.jimdo.com/nl/website/blog/"><img alt="Jimdo - Een gratis blog maken" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/996/original/jimdo.png" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="http://www.codecademy.com/"><img alt="Codecademy" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/987/original/leren-coden.gif" />
+<div class='info-strip' style='border-color: #014ccb;background-color: #014ccb;'>Leren coden</div>
+
+</a></div>
+<div class='logo'>
+<a target="_blank" rel="nofollow" href="http://www.pcextreme.nl/?tt=1652_42961_30530_"><img alt="PCextreme" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1000/original/pcextreme__2_.gif" />
+<div class='info-strip' style='border-color: #014ccb;background-color: #014ccb;'>Hosting</div>
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://medium.com/"><img alt="Medium" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/986/original/medium.png" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://substack.com/"><img alt="Substack" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1008/original/Substack.png" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://ghost.org/"><img alt="ghost" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/999/original/ghost-org.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.drupal.org/"><img alt="Drupal" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1003/original/drupal.png" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="http://www.zoho.com/sites/"><img alt="Zoho" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1001/original/zoho-2012.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="http://hubpages.com/"><img alt="Hubpages" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/997/original/hubpages-2011.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="http://www.wix.com/"><img alt="Wix" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/995/original/wix-new.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.livejournal.com/"><img alt="Livejournal" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1002/original/livejournal-2013.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.joomla.org/"><img alt="Joomla" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/998/original/joomla.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://twitter.com/"><img alt="Twitter" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/993/original/twitter-2021.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.instagram.com/"><img alt="Instagram" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/988/original/insta2.png" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.kadaza.nl/domeinregistratie"><img alt="Domein registreren" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/990/original/domein-regsitreren-klein.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.kadaza.nl/hosting"><img alt="Beste hosting bedrijven" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/1004/original/hosting-2012.gif" />
+
+</a></div>
+<div class='logo'>
+<a target="_blank" href="https://www.kadaza.nl/eigen-webwinkel"><img alt="Eigen webwinkel maken" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/logo_images/991/original/webshop-maken-2012.gif" />
+
+</a></div>
+</div>
+</div>
+</li>
+</ul>
+<ul class='list-group mobile-categories children'>
+<li class='list-group-item category-link direct-link' data-link='/bloggen'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="/bloggen">Bloggen
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='/chatten'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="/chatten">Chatten
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='https://www.kadaza.nl/daten'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="https://www.kadaza.nl/daten">Daten
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='https://www.kadaza.nl/ecards'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="https://www.kadaza.nl/ecards">E-cards
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='https://www.kadaza.nl/fotografie'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="https://www.kadaza.nl/fotografie">Foto&#39;s
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='/genealogie'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="/genealogie">Genealogie
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='/videobellen'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="/videobellen">Videobellen
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='https://www.kadaza.nl/wenskaarten'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="https://www.kadaza.nl/wenskaarten">Wenskaarten
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='https://www.kadaza.nl/website-maken'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="https://www.kadaza.nl/website-maken">Website maken
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+<li class='list-group-item category-link direct-link' data-link='https://www.kadaza.nl/more'>
+<div class='header_without_color'>
+<span class='title'>
+<a href="https://www.kadaza.nl/more"><strong>
+Alle categorieën
+</strong>
+</a></span>
+<span class='right-button arrow' style='padding-top:4px'>
+<svg fill='#024bcb' height='38' viewBox='0 0 24 24' width='30' xmlns='http://www.w3.org/2000/svg'>
+<path d='M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</span>
+</div>
+</li>
+</ul>
+
+</div>
+<div class='custom-content-footer'>
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><span style="font-size:36px;"><span style="color:#034491;"><strong>De visuele startpagina</strong></span></span></p>
+
+<p style="max-width: 700px; margin: auto; text-align: center;"><span style="color:#2c3e50;"><span style="font-size:17px;">Kadaza bestaat al sinds 2008 en toont de meest bezochte websites van Nederland, handig per thema ingedeeld. Je kunt je favoriete websites toevoegen op de personaliseerbare startpagina. Geef de homepage ook een eigen stijl met afbeeldingen, patronen en kleuren.</span></span></p>
+
+<p>&nbsp;</p>
+<style type="text/css">.buttonbookmark {
+  border: none;
+  background-color: #0c60d3;
+  padding: 14px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+
+.success:hover {
+  background-color: #0057a9;
+  color: white;
+}
+
+/* Set as your Homepage */
+.success {
+  color: white;
+}
+</style>
+<p style="text-align: center;"><button class="buttonbookmark success" onclick="javascript:$('#bookmark-modal').modal('toggle');(true);"><b>Kadaza instellen als startpagina</b></button></p>
+
+<p>&nbsp;</p>
+
+<hr />
+<p style="text-align: center;"><a href="https://www.kadaza.nl/about"><span style="font-size:16px;"><span style="color:#2c3e50;">Lees meer </span><span style="color:#2c3e50;">o</span><span style="color:#2c3e50;">ver Kadaza</span></span></a></p>
+
+<hr />
+<p style="text-align: center;"><span style="font-size:16px;"><span style="color:#95a5a6;"><a href="https://www.facebook.com/kadaza.nl" target="_blank"><img alt="Facebook" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/ckeditor_assets/pictures/264/content_fb.png" style="width: 40px; height: 40px;" title="Facebook" /></a>&nbsp; <a href="https://twitter.com/kadazaNL" target="_blank"><img alt="X" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/ckeditor_assets/pictures/890/content_x-follow.png" style="width: 40px; height: 40px;" title="Twitter" /></a>&nbsp; <a href="https://www.instagram.com/kadaza_startpage/" target="_blank"><img alt="Instagram" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/ckeditor_assets/pictures/262/content_insta.png" style="width: 40px; height: 40px;" title="Instagram" /></a>&nbsp; <a href="https://www.youtube.com/playlist?list=PL3uahik_e-Gd6kZbwVUHiSu4DnUZKtfm_" target="_blank"><img alt="Youtube" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/ckeditor_assets/pictures/261/content_youtube.png" style="width: 40px; height: 40px;" title="Youtube" /></a></span></span></p>
+
+<hr />
+<p style="text-align: center;"><a class="ot-sdk-show-settings" id="ot-sdk-btn" style="padding: 0; border: none; color: #666666; font-size: 12px; background: none;"><span style="color:#666666;">Cookie voorkeuren</span></a></p>
+
+</div>
+<script>
+  if(window.classic_view) {
+    var e = document.querySelector('body.mobile > .custom-content-footer');
+    if(e) { e.style.visibility = "hidden"; }
+  }
+</script>
+<div class='footer'>
+©2024 Kadaza
+ - 
+<a href="https://www.kadaza.nl/privacy">Privacy</a>
+ - 
+<a href="/terms_of_service">Servicevoorwaarden</a>
+&nbsp;
+<a href="/international"><img src="/images/flags/nl.gif" /></a>
+</div>
+<div class='extended-footer'>
+<div class='left-footer-txt'>
+<p><span style="font-size:16px;"><u><strong><a href="https://www.kadaza.nl/bookmark" target="_blank"><span style="color:#2c3e50;">Stel in als startpagina</span></a></strong></u><span style="color:#2c3e50;">&nbsp;&nbsp;&nbsp;&nbsp; </span><a href="https://www.kadaza.nl/more"><span style="color:#2c3e50;">Alle categorie&euml;n</span></a><span style="color:#2c3e50;">&nbsp;&nbsp;&nbsp;&nbsp; </span><a href="https://www.kadaza.nl/contact_us"><span style="color:#2c3e50;">Contact</span></a><span style="color:#2c3e50;"> &nbsp; &nbsp; </span><a href="https://www.kadaza.nl/faq"><span style="color:#2c3e50;">Help</span></a><span style="color:#2c3e50;">&nbsp;</span></span></p>
+
+</div>
+<div class='left-footer-icons'>
+<a href="/more"><svg fill='#333333' height='35' style='float: left' viewBox='0 0 24 24' width='35' xmlns='http://www.w3.org/2000/svg'>
+<path d='M14 17H4v2h10v-2zm6-8H4v2h16V9zM4 15h16v-2H4v2zM4 5v2h16V5H4z'></path>
+<path d='M0 0h24v24H0z' fill='none'></path>
+</svg>
+</a></div>
+<div class='bookmark-button'>
+<span class='glyphicon' style='text-align: center'>
+<img src="/mobile/add_to_home_icon.png" />
+</span>
+</div>
+<div class='right-footer-txt'>
+<p><span style="font-size:16px;"><a href="https://www.kadaza.nl/mobile"><span style="color:#2c3e50;">Mobiel &amp; Tablet</span></a><span style="color:#2c3e50;">&nbsp;&nbsp;&nbsp;&nbsp; </span><a href="https://www.kadaza.nl/about"><span style="color:#2c3e50;">Over Kadaza</span></a><span style="color:#2c3e50;">&nbsp;&nbsp;&nbsp;&nbsp; </span><a href="https://www.kadaza.nl/tips" target="_blank"><span style="color:#2c3e50;">Kadaza Tips</span></a><span style="color:#2c3e50;">&nbsp;&nbsp;&nbsp;&nbsp; </span><a href="https://www.kadaza.nl/blog"><span style="color:#2c3e50;">Blog</span></a></span></p>
+
+</div>
+<div class='right-footer-icons'>
+<a href="/about"><svg fill='#333333' height='31' style='float: right' viewBox='0 0 24 24' width='31' xmlns='http://www.w3.org/2000/svg'>
+<path d='M0 0h24v24H0z' fill='none'></path>
+<path d='M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z'></path>
+</svg>
+</a></div>
+</div>
+<div aria-hidden='true' class='modal' id='bookmark-modal' role='dialog' tabindex='-1'>
+<div class='modal-dialog' role='document'>
+<div class='modal-content'>
+<div class='modal-header'>
+<h4 class='modal-title'>Kadaza als startpagina instellen</h4>
+<div class='close-button' data-dismiss='modal'>
+X
+</div>
+</div>
+<div class='modal-body'>
+<div class='bookmark-instructions'>
+<div class='content'>
+<p style="margin-left: 10px;"><span style="color:null;"><span style="font-size:14px;">Kadaza is ontworpen om te gebruiken als startpagina. Je kunt je startpagina altijd weer wijzigen als je dat wilt. Bekijk hieronder de instructies voor Google Chrome.</span></span></p>
+
+<hr />
+<p style="margin-left: 10px;"><span style="color:#e67e22;"><span style="font-size:16px;"><strong>Snelle methode:</strong></span></span></p>
+
+<p style="margin-left: 10px;"><span style="color: rgb(52, 52, 52); font-family: &quot;Arial Baltic&quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Installeer eenvoudig de Kadaza extensie in de<span>&nbsp;</span></span><u><strong style="box-sizing: border-box; font-weight: 700; color: rgb(52, 52, 52); font-family: &quot;Arial Baltic&quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><a href="https://chromewebstore.google.com/detail/kadaza-%E2%80%94-de-visuele-start/akefaknhfanhkoefhhoagbomfdbafdgg?hl=nl&amp;?utm_campaign=sitecatNL" style="box-sizing: border-box; background-color: transparent; color: rgb(0, 75, 200); text-decoration: none;" target="_blank">Chrome Web Store</a></strong></u><span style="color: rgb(52, 52, 52); font-family: &quot;Arial Baltic&quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">.</span></p>
+
+<hr />
+<p style="margin-left: 10px;"><span style="color:#e67e22;"><span style="font-size:16px;"><strong>Handmatige methode:</strong></span></span></p>
+
+<p style="margin-left: 10px;"><span style="font-size:14px;">1. Klik op het <strong>Chrome menu&nbsp;<img alt="Chrome menu" src="https://s3-eu-west-2.amazonaws.com/kadaza-public/nl/system/ckeditor_assets/pictures/153/content_chrome-icon.gif" style="width: 23px; height: 26px;" /></strong> in de rechter bovenhoek en selecteer <strong>Instellingen</strong>.</span></p>
+
+<p style="margin-left: 10px;"><span style="font-size:14px;">2. Activeer &#39;<strong>Knop Homepage weergeven</strong>&#39; in het gedeelte &#39;Vormgeving&#39;. Typ <span style="color:#27ae60;"><strong>www.kadaza.nl</strong> </span>in het tekstvak.</span></p>
+
+<p style="margin-left: 10px;"><span style="font-size:14px;">3. </span> <span style="font-size:14px;">Klik in het linkermenu op &#39;Bij opstarten&#39;. Selecteer &#39;<strong>Een specifieke pagina of reeks pagina&#39;s openen</strong>&#39;. Typ <span style="color:#27ae60;"><strong>www.kadaza.nl </strong></span>in het tekstvak.</span></p>
+
+<hr />
+<p style="margin-left: 10px;"><span style="font-size:14px;">Meer hulp? <a href="https://www.kadaza.nl/new/chrome-startpagina" target="_blank">Uitgebreide instructies met plaatjes</a></span></p>
+
+<hr />
+<p style="margin-left: 10px;"><span style="font-size:14px;"><a href="https://www.kadaza.nl/about" target="_blank">Over Kadaza</a></span></p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style='display: none;'>
+<iframe id='hiddenposter' name='hiddenposter' src='about:blank' style='width:1px;height:1px;border:0px'></iframe>
+</div>
+<script src='/mobile/fallback/jquery-3.6.0.min.js'></script>
+<script src='/javascripts2/Sortable.min.js'></script>
+<script src='/mobile/fallback/bootstrap.min.js'></script>
+<script src='/mobile/fallback/iscroll-lite.js'></script>
+<script src='/javascripts2/touch-dnd.js'></script>
+<script src='/javascripts2/browser_info.js'></script>
+<script>
+  $(document).ready(function (){
+    $('.subcategories li.list-group-item.category-link').on('click', function() {
+      window.location = $(this).data("link");
+    });
+    $('li.list-group-item.more_category').on('click', function() {
+      window.location = $(this).data("link");
+    });
+    $('table.moreindex td').on('click', function() {
+      window.location.href = $(this).data('href');
+    });
+  });
+</script>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        for (var i = 0; i < registrations.length; i++) {
+          registrations[i].unregister();
+        }
+      });
+    });
+  }
+</script>
+<script>
+  $(document).ready(function (){
+    $(".change-settings-button").on('click', function(e) { window.toggleSettingsModal() });
+    window.toggleSettingsModal = function() {
+      console.log("toggleSettingsModal");
+      $('#customize-settings').modal('toggle');
+    };
+    window.toggleSettingsSearch = function(open) {
+      $('#customize-settings').modal('hide');
+      $('#customize-search-engine').modal('show');
+      $("input[name=search_engine]").prop('checked', false);
+  
+      var search_engine_name = window.localStorage.getItem("search_selection");
+      if(search_engine_name && $.inArray(search_engine_name, ["google", "yahoo", "bing", "startpage"]) != -1) {
+        $('input[name=search_engine][value="'+search_engine_name+'"]').prop('checked', true);
+      } else {
+        $('input[name=search_engine][value="google"]').prop('checked', true);
+      }
+    };
+    window.toggleSettingsBackground = function(open) {
+      $('#customize-settings').modal('hide');
+      // ga('send', 'event', 'action', 'wallpaper-desktop');
+      $('#customize-background').modal('show');
+      $.get("/m/background_categories", {}, function(data) {
+        $('#customize-background-categories').html(data);
+      });
+      $.get("/m/background_categories_content", {}, function(data) {
+        $('#customize-background-categories-content').html(data);
+      });
+      //$.get("/background_selection_container", { }, backgroundSelectionContainerCallback);
+    };
+    window.getBackgroundsForCategory = function(self, backgroundCategoryId) {
+      $.get("/m/background_categories_content", { background_category: backgroundCategoryId }, function(data) {
+        $('#customize-background-categories-content').html(data);
+      });
+      $('#customize-background-categories ul li a').removeClass('selected');
+      $(self).addClass('selected');
+    };
+    window.setBackground = function(bg_filename, bg_id, bg_cat_id) {
+        if(String(bg_id) === '-1') {
+          window.localStorage.removeItem("mobile_background_url");
+          window.localStorage.setItem("mobile_background_id", bg_id);
+          $('body.mobile').css('background-image', "none");
+          window.setBackgroundInUseOrNot();
+        }
+        else {
+          window.localStorage.setItem("mobile_background_url", bg_filename);
+          window.localStorage.setItem("mobile_background_id", bg_id);
+          $('body.mobile').css('background-image', "url('"+bg_filename +"')");
+          window.setBackgroundInUseOrNot();
+        }
+    };
+    window.setBackgroundInUseOrNot = function() {
+        $.each($('#customize-background-categories-content li.background'), function (idx, bgItem) {
+            var current_bg_id = null;
+            if (window.localStorage) {
+                current_bg_id = window.localStorage.getItem("mobile_background_id")
+            }
+            var bg_in_use = String($(bgItem).data('bg-id')) === String(current_bg_id);
+            if( bg_in_use ) {
+                $(bgItem).find('.choose-bg-button').hide();
+                $(bgItem).find('.bg-in-use').show();
+            } else {
+                $(bgItem).find('.choose-bg-button').show();
+                $(bgItem).find('.bg-in-use').hide();
+            }
+        })
+    };
+    window.search_option_data = {
+      "google": "https://www.kadaza.nl/search?q=##QUERY##",
+      "maps": SearchData['google'][2].u,
+      "translate": "https://translate.google.com/?&q=##QUERY##",
+      "youtube": SearchData['youtube'][0].u,
+      "wikipedia": SearchData['wikipedia'][0].u,
+      "yahoo": SearchData['yahoo'][0].u,
+      "bing": SearchData['bing'][0].u,
+      "startpage": SearchData['startpage'][0].u
+    };
+    window.search_option_img_data = {
+      "google": "/mobile/searchbar/google.svg",
+      "maps": "/mobile/searchbar/maps.png",
+      "translate": "/mobile/searchbar/translate.png",
+      "youtube": "/mobile/searchbar/youtube.png",
+      "wikipedia": "/mobile/searchbar/wikipedia.png",
+      "yahoo": "/mobile/searchbar/yahoo.png",
+      "bing": "/mobile/searchbar/bing.png",
+      "startpage": "/mobile/searchbar/startpage.png"
+    };
+    window.saveSearchSetting = function() {
+      var selected_search_engine = $("input[name=search_engine]:checked").val();
+      set_search_selection(selected_search_engine, true);
+  
+      $('#customize-search-engine').modal('hide');
+    };
+    window.set_search_selection = function(name, save_selection) {
+      var $a_for_name = $('#search-engine-dropdown').find('a[data-name="'+name+'"]'),
+          $parent_li = $a_for_name.closest('li'),
+          save_selection = save_selection || false;
+  
+      // store selection for later retrieval
+      if(save_selection && $.inArray(name, ["google", "yahoo", "bing", "startpage"]) != -1) {
+        window.localStorage.setItem("search_selection", name);
+      }
+      window.search_selection = name;
+  
+      // remove highlight for all
+      $('#search-engine-dropdown').find('li').removeClass('active');
+      // highlight selection
+      $parent_li.toggleClass('active');
+      // set text for button to current selection
+      $('.search-engine-dropdown span.title').html($a_for_name.html());
+  
+      // if($.inArray(name, ["google", "translate", "maps"]) != -1) {
+      if($.inArray(name, ["google"]) != -1) {
+        $('.search-logo .other-logos').hide();
+        $('.search-logo .google-logo-wrapper').show();
+      } else {
+        $('.search-logo .google-logo-wrapper').hide();
+        $('.search-logo .other-logos').show();
+        $('.search-logo .other-logos > img').attr('src', window.search_option_img_data[name]);
+      }
+  
+      $('.search-logo .other-logos > img').attr('src', window.search_option_img_data[name]);
+    };
+  
+    var search_selection = window.localStorage.getItem("search_selection") || 'google';
+    set_search_selection(search_selection);
+  
+    $('#search-engine-dropdown').find('a[data-name]').on('click', function (e){
+      var $this = $(this),
+          name = $this.data('name');
+  
+      set_search_selection(name);
+      $('#search-engine-dropdown').dropdown('toggle');
+  
+      $('#query').focus();
+      e.preventDefault();
+      return false;
+    });
+  
+    $('body').on('click', 'ul.mobile-categories li.list-group-item.category-link .more-txt, ul.mobile-categories li.list-group-item.category-link .more-psearch-txt', function(e) {
+      $(this).siblings('.right-button.subcategory').find('.subcategories').toggleClass('open');
+      e.preventDefault();
+      return false;
+    });
+    $('body').on('click', 'ul.mobile-categories li.list-group-item.category-link .right-button.subcategory', function(e) {
+      $(this).find('.subcategories').toggleClass('open');
+      e.preventDefault();
+      return false;
+    });
+  
+   $('body').on('click', 'ul.mobile-categories li.list-group-item.category-link .subcategories li.list-group-item.category-link', function(e) {
+      e.preventDefault();
+      window.location = $(this).data("link");
+      return false;
+    });
+  
+  
+    $('.bookmark-button').on('click', function() {
+      $('html,body').scrollTop(0);
+      $('#bookmark-modal').modal('show');
+    });
+  
+    $('.share-footer > a').on('click', function(e) {
+      $('.share-popup-container').toggleClass('open');
+      e.preventDefault();
+      return false;
+    });
+  
+    $('.share-footer li.share-twitter').on('click', function(e) {
+      window.location.href = "https://twitter.com/intent/tweet?url=" + window.location.href;
+    });
+  
+    $('.share-footer li.share-facebook').on('click', function(e) {
+      window.location.href = "https://www.facebook.com/sharer/sharer.php?u=" + window.location.href;
+    });
+  
+    $('.share-footer li.share-googleplus').on('click', function(e) {
+      window.location.href = "https://plus.google.com/share?url=" + window.location.href;
+    });
+  
+    window.kill_cookienotice = function() {
+      window.localStorage.setItem("mobile_cookienotice", true);
+      $('#cookieNotice').toggleClass('hide');
+    };
+  
+    $('#cookieNotice .closebutton > a').on('click', function(e) {
+      e.preventDefault();
+      window.kill_cookienotice();
+      return false;
+    });
+    function get_setting(value, cookiename) {
+      var ret         = null,
+          kcookies    = document.cookie,
+          cookiename2 = cookiename || "ikadaza-settings-kadaza.nl=",
+          pos         = kcookies.indexOf(cookiename2);
+      if (pos != -1) {
+        var start = pos + cookiename2.length, end = kcookies.indexOf(";", start), kcontents = decodeURIComponent(kcookies.substring(start, (end == -1 ? kcookies.length : end))).split(',');
+        for (var i = 0; i < kcontents.length; i++) {
+          pos = kcontents[i].indexOf(value + '=');
+          if (pos != -1) {
+            ret = kcontents[i].substring(pos + value.length + 1, kcontents[i].length);
+          }
+        }
+      }
+      return ret;
+    }
+    var show_desktop_cookienotice = (get_setting('cookienotice') == null || get_setting('cookienotice') == 'true');
+    var show_mobile_cookienotice = !(window.localStorage.getItem('mobile_cookienotice') === "true");
+    if(show_mobile_cookienotice && show_desktop_cookienotice) {
+      $('#cookieNotice').toggleClass('hide');
+    }
+  });
+    $(".change-background-button").on('click', function(e) { window.toggleSettingsBackground(1) });
+</script>
+<script>
+  $(document).ready(function (){
+    if(document.querySelector('.searchbar') != null) {
+      var oldBottomRadius = document.querySelector('.searchbar').style.borderBottomRightRadius;
+      var oldMarginBottom = document.querySelector('.searchbar-wrapper').style.marginBottom;
+  
+      $('#query').on('keyup', function(e) {
+        $.get("/m/power_search", { q: $('#query').val() }, function( data ) {
+          if(data == '') {
+            document.querySelector('.searchbar').style.borderBottomRightRadius = oldBottomRadius;
+            document.querySelector('.searchbar').style.borderBottomLeftRadius = oldBottomRadius;
+            document.querySelector('.searchbar-wrapper').style.marginBottom = oldMarginBottom;
+            $("#power_search").html( data );
+          } else {
+           $("#power_search").html( data );
+          }
+        });
+      });
+    }
+  })
+</script>
+<script>
+  $(document).ready(function (){
+    if (/iPhone|iPad/i.test(navigator.userAgent) && / OS 1[12]/.test(navigator.appVersion)) {
+      $('*').css('cursor', 'pointer');
+    }
+  
+    // if desktop then focus the query input
+    if (!(/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent))) {
+      $('#query').select();
+      $('#query').focus();
+    }
+  
+    $('body').on('click', 'ul.mobile-categories li.list-group-item.category-link[id!="category_1"]', function(event) {
+      if ($('ul.mobile-categories li.list-group-item.category-link.static').find($(event.target)).length > 0) {
+        return
+      }
+  
+      if ($('ul.mobile-categories li.list-group-item.category-link > div.content').find($(event.target)).length > 0) {
+        return
+      }
+  
+      var $this = $(event.target).closest('li.list-group-item.category-link'),
+          $contentElement = $this.find('.content');
+  
+      if ($this.data("link") === undefined) {
+        return
+      }
+  
+      $this.toggleClass('open');
+      $contentElement.toggleClass('hide');
+  
+      if($contentElement.is(':empty')) {
+        if($this.data('power') === "yes") {
+          ga('send', 'event', 'powersearch-category', $this.data('title'));
+        } else {
+          ga('send', 'event', 'category', $this.data('title'));
+        }
+        // NORMAL
+        $contentElement.load($this.data("link") + '?layout=false');
+        // LITE
+        // $('#category_1').hide();
+        // $('#on-top-category').removeClass('hidden');
+        // $contentElement.load($this.data("link") + '?layout=false');
+        // $('#on-top-category > li').replaceWith($this.clone());
+        // $('#on-top-category > li > .content').load($this.data("link") + '?layout=false');
+        // $('#on-top-category .content').load($this.data("link") + '?layout=false');
+        // $('#on-top-category > li > .header > .title').text($this.data('title'));
+        // header_bg = $this.find('.header').css('background-color');
+        // $('#on-top-category > .header').css('background-color', header_bg);
+      }
+  
+      event.preventDefault();
+    });
+  
+    $('li.list-group-item.more').on('click', function(e) {
+      e.preventDefault();
+      window.location = '/more';
+      return false;
+    });
+  
+    $('li.list-group-item.direct-link').on('click', function(e) {
+      e.preventDefault();
+      var $this = $(e.target).closest('li.list-group-item.category-link');
+      window.location = $this.data("link");
+      return false;
+    });
+  });
+</script>
+</body>
+</html>
